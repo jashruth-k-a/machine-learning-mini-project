@@ -1,0 +1,27 @@
+# Downloaded CT data and segmentation masks
+scans/
+masks/
+model_cache/
+covid_ct_project/
+*.mha
+*.nii
+*.nii.gz
+*.dcm
+*.pth
+*.pt
+
+# Generated patient-level data and models
+*_features.csv
+*_manifest.csv
+*_predictions.csv
+patient_split.csv
+reference.csv
+*.joblib
+
+# Temporary files and local environments
+*.part
+*.tmp.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
