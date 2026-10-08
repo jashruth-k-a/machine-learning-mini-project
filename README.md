@@ -61,3 +61,8 @@ The sample is small and the final evaluation uses the same source dataset, rathe
 - [STOIC2021 dataset](https://stoic2021.grand-challenge.org/stoic-db/)
 - [lungmask source and pretrained segmentation](https://github.com/JoHof/lungmask)
 - [Hofmanninger et al., lung segmentation method](https://doi.org/10.1186/s41747-020-00173-2)
+
+
+## Team Details
+Jashruth K A - PES2UG24AM069
+Kishan Bharadwaj - PE2UG24AM074
