@@ -1,0 +1,15 @@
+{
+  "source": "Rounded metrics reported from the executed Google Colab notebook",
+  "metrics": {
+    "accuracy": 0.775,
+    "balanced_accuracy": 0.717,
+    "roc_auc": 0.743,
+    "average_precision": 0.619,
+    "severe_recall": 0.6
+  },
+  "patients": 40,
+  "non_severe_patients": 30,
+  "severe_patients": 10,
+  "threshold": 0.5,
+  "confusion_matrix": [[25, 5], [4, 6]]
+}
