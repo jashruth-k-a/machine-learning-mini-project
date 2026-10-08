@@ -64,5 +64,4 @@ The sample is small and the final evaluation uses the same source dataset, rathe
 
 
 ## Team Details
-Jashruth K A - PES2UG24AM069
-Kishan Bharadwaj - PE2UG24AM074
+Jashruth K A(PES2UG24AM069) & Kishan Bharadwaj(PES2UG24AM074)
