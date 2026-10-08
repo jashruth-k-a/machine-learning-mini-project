@@ -1,0 +1,11 @@
+lungmask==0.2.21
+SimpleITK
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+requests
+tqdm
+joblib
+torch
