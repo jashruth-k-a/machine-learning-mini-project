@@ -50,7 +50,7 @@ Confusion matrix, with rows representing actual outcomes and columns representin
  [ 4, 6]]
 ```
 
-The model correctly classified 31 of 40 patients and detected 6 of 10 severe cases. An always-non-severe classifier would achieve 75% accuracy but zero severe recall. These results were reported from the executed Colab notebook; rounded aggregate metrics are included in `results/evaluation_results.json`.
+The model correctly classified 31 of 40 patients and detected 6 of 10 severe cases. An always-non-severe classifier would achieve 75% accuracy but zero severe recall. These results were reported from the executed Colab notebook; rounded aggregate metrics are included in `evaluation_results.json`.
 
 ## Limitations
 
